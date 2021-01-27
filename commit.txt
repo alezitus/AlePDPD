@@ -1,0 +1,5 @@
+git init
+git add <arquivo>
+git status
+git commit -m "mensagem"
+gir push <url do repo> master
